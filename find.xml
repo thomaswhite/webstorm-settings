@@ -1,7 +1,0 @@
-<application>
-  <component name="FindSettings">
-    <option name="customScope" value="File '.../test/test.js [rename-images]'" />
-    <option name="defaultScopeName" value="File '.../test/test.js [rename-images]'" />
-    <option name="SEARCH_SCOPE" value="File '.../test/test.js [rename-images]'" />
-  </component>
-</application>
