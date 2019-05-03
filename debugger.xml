@@ -4,9 +4,8 @@
     <general />
     <debuggers>
       <debugger id="javascript">
-        <configuration doNotStepIntoLibraryCode="false">
-          <custom-object-presentation enabled="true" />
-          <stepping-filters-enabled>false</stepping-filters-enabled>
+        <configuration>
+          <custom-object-presentation />
         </configuration>
       </debugger>
     </debuggers>
