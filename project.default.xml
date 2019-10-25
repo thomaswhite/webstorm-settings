@@ -1,9 +1,11 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
+      <component name="JscsConfiguration" jscs-preset="node_style_guide" />
       <component name="PropertiesComponent">
-        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="node.js.path.for.package.jscs" value="project" />
+        <property name="node.js.selected.package.jscs" value="/usr/lib/node_modules/jscs" />
+        <property name="settings.editor.selected.configurable" value="settings.javascript.linters.jscs" />
       </component>
     </defaultProject>
   </component>
